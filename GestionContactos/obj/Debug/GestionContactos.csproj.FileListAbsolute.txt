@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\obj\Debug\GestionContactos.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\obj\Debug\GestionContactos.Form1.resources
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\obj\Debug\GestionContactos.Properties.Resources.resources
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\obj\Debug\GestionContactos.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\obj\Debug\GestionContactos.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\bin\Debug\GestionContactos.exe.config
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\bin\Debug\GestionContactos.exe
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\bin\Debug\GestionContactos.pdb
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\obj\Debug\GestionContactos.exe
+C:\Users\crist\source\repos\khiix\GestionContactos\GestionContactos\obj\Debug\GestionContactos.pdb
